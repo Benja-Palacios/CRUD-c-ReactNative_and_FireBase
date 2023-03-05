@@ -1,0 +1,8 @@
+ingresar al link https://firebase.google.com/?hl=es
+crear una cuenta y despues en 
+*Agregar Proyecto
+*ingresaremos a ponerle un nombre
+Despues vamos firestore DataBase.
+Nos colocamos en Descripcion General. ledamos en el engrane y nos 
+vamos a Config. del proyecto copiamos los datos 
+y los pegaremos en en archivo llamado .env.
